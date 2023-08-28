@@ -19,3 +19,4 @@
 
 - refactor function to convert pdf to docx
 - refactor function to convert docx to html
+- add image converter function to docx to function
