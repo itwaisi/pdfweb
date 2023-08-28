@@ -1,0 +1,3 @@
+DEFAULTS = {
+    'program': 'PDFWEB'
+}
