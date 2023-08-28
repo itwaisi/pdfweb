@@ -1,2 +1,3 @@
 pywin32==306
 mammoth==1.6.0
+Pillow==10.0.0
